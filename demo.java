@@ -4,8 +4,4 @@ public class demo
 		System.out.println("Hi");
 	}
 
-
-	public void m1(){
-		sout;
-	}
 };
